@@ -1,4 +1,4 @@
-baseURL: ''
+baseURL: 'https://6358401fe15c782e0d9c0bd3--darling-pudding-8d0a79.netlify.app/'
 languageCode: 'en-us'
 title: 'Demo for Hugo'
 theme: 'PaperMod'
